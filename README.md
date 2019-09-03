@@ -1,7 +1,7 @@
 # initMobX
 
 
-<h1>Install</h1>
+## Install
 
 ```bash
 cd project folder
@@ -18,7 +18,7 @@ $ yarn and ENV=uat
 ```
 
 
-<h1>Libraries</h1>
+## Libraries
 
 * [react-native-config](https://github.com/luggit/react-native-config)
 * [react-navigation](https://reactnavigation.org/docs/en/3.x/getting-started.html)
