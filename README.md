@@ -20,8 +20,6 @@ $ yarn and ENV=uat
 
 <h1>Libraries</h1>
 
-<h3>Setup ENV</h3>
 * [react-native-config](https://github.com/luggit/react-native-config)
-
 * [react-navigation](https://reactnavigation.org/docs/en/3.x/getting-started.html)
 * [mobx](https://github.com/mobxjs/mobx)
